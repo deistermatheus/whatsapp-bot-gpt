@@ -1,0 +1,202 @@
+[
+  {
+    "sentence": "Transcreva o áudio.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Preciso de uma transcrição.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Por favor, transcreva isso para mim.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Transcreva essa gravação.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Quero uma transcrição escrita.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Faça a transcrição desse arquivo.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Gostaria de ter uma transcrição disso.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Por favor, transcreva essa mensagem de voz.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Preciso de uma transcrição desse vídeo.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Transcreva a gravação da reunião.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Quero uma transcrição do podcast.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Faça a transcrição do webinar.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Por favor, transcreva o áudio da palestra.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Preciso de uma transcrição da mensagem de voz.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Transcreva a entrevista que fiz.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Quero uma transcrição desse arquivo de áudio.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Faça a transcrição do vídeo da apresentação.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Por favor, transcreva a conferência.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Preciso de uma transcrição escrita do depoimento.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Transcreva o áudio da aula online.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Quero uma transcrição do diálogo do filme.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Faça a transcrição do evento corporativo.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Por favor, transcreva a entrevista jornalística.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Preciso de uma transcrição da mensagem de voz do cliente.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Transcreva o áudio do documentário.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Quero uma transcrição da entrevista de celebridade.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "Faça a transcrição do congresso científico.",
+    "intent": "transcribe"
+  },
+  {
+    "sentence": "O que posso cozinhar com frango, batata, cebola e temperos que tenho em casa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que fazer com ovos, queijo, tomate e espinafre que tenho na geladeira?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "Que receita posso fazer com lentilhas, cenoura, cebola e caldo de legumes que tenho na despensa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que posso preparar com arroz, feijão enlatado, linguiça e temperos que tenho em casa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que fazer com batatas, maionese, cebola e salsinha que tenho na geladeira?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "Que receita posso fazer com massa de lasanha, queijo, presunto e molho de tomate que tenho em casa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que posso cozinhar com carne moída, macarrão, molho de tomate e queijo que tenho na despensa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que fazer com pão, alface, tomate e maionese que tenho em casa para fazer um lanche?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "Que receita posso fazer com abobrinha, queijo parmesão, farinha de rosca e temperos que tenho na geladeira?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que posso preparar com peito de frango, leite de coco, curry e legumes que tenho em casa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que fazer com ovos, bacon, queijo e leite que tenho na despensa para fazer um café da manhã?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "Que receita posso fazer com atum enlatado, maionese, cebola e pão que tenho em casa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que posso cozinhar com cogumelos, creme de leite, manteiga e vinho que tenho na geladeira?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que fazer com abacate, limão, cebola e coentro que tenho em casa para fazer um guacamole?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "Que receita posso fazer com grão de bico, tahine, limão e alho que tenho na despensa para fazer homus?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que posso preparar com batata-doce, alecrim, azeite e sal grosso que tenho em casa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que fazer com camarão, tomate, cebola e pimentão que tenho na geladeira para fazer uma paella?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "Que receita posso fazer com abóbora, cebola, gengibre e leite de coco que tenho em casa para fazer uma sopa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que posso cozinhar com chocolate em barra, leite condensado, ovos e farinha que tenho na despensa para fazer um bolo?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que fazer com banana, leite, ovos e açúcar que tenho em casa para fazer uma sobremesa?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "Que receita posso fazer com berinjela, queijo muçarela, molho de tomate e manjericão que tenho na geladeira para fazer uma lasanha?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que posso preparar com abacaxi, frango, pimentão e cebola que tenho em casa para fazer um prato agridoce?",
+    "intent": "cook"
+  },
+  {
+    "sentence": "O que fazer com abóbora, queijo gorgonzola, nozes e mel que tenho na despensa para fazer uma entrada?",
+    "intent": "cook"
+  }
+]
